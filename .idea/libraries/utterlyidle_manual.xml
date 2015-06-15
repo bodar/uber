@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="utterlyidle-manual">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/utterlyidle/lib/manual" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/utterlyidle/lib/manual" recursive="false" />
+  </library>
+</component>

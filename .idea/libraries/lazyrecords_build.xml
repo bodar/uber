@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lazyrecords-build">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lazyrecords/lib/build" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lazyrecords/lib/build" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lazyrecords/lib/build" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/lazyrecords/lib/build" recursive="false" type="SOURCES" />
+  </library>
+</component>

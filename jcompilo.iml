@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/jcompilo">
+      <sourceFolder url="file://$MODULE_DIR$/jcompilo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jcompilo/test" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="shavenmaven" />
+    <orderEntry type="module" module-name="totallylazy" />
+    <orderEntry type="module" module-name="utterlyidle" />
+    <orderEntry type="module" module-name="yadic.java" />
+    <orderEntry type="library" name="totallylazy-optional" level="project" />
+    <orderEntry type="library" name="totallylazy-build" level="project" />
+  </component>
+</module>

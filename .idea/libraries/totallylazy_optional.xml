@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="totallylazy-optional">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/totallylazy/lib/optional" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/totallylazy/lib/optional" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/totallylazy/lib/optional" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/totallylazy/lib/optional" recursive="false" type="SOURCES" />
+  </library>
+</component>

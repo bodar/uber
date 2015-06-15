@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="utterlyidle-optional">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/utterlyidle/lib/optional" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/utterlyidle/lib/optional" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/utterlyidle/lib/optional" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/utterlyidle/lib/optional" recursive="false" type="SOURCES" />
+  </library>
+</component>

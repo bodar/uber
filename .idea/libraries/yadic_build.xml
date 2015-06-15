@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="yadic-build">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/yadic.java/lib/build" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/yadic.java/lib/build" recursive="false" />
+  </library>
+</component>
