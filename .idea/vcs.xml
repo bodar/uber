@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jcompilo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lazyrecords" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/shavenmaven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/totallylazy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/utterlyidle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/yadic.java" vcs="Git" />
   </component>
 </project>
