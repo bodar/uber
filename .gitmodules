@@ -1,18 +1,18 @@
 [submodule "totallylazy"]
 	path = totallylazy
-	url = https://github.com/bodar/totallylazy.git
+	url = git@github.com:bodar/totallylazy.git
 [submodule "yadic.java"]
 	path = yadic.java
-	url = https://github.com/bodar/yadic.java.git
+	url = git@github.com:bodar/yadic.java.git
 [submodule "utterlyidle"]
 	path = utterlyidle
-	url = https://github.com/bodar/utterlyidle.git
+	url = git@github.com:bodar/utterlyidle.git
 [submodule "lazyrecords"]
 	path = lazyrecords
-	url = https://github.com/bodar/lazyrecords.git
+	url = git@github.com:bodar/lazyrecords.git
 [submodule "shavenmaven"]
 	path = shavenmaven
-	url = https://github.com/bodar/shavenmaven.git
+	url = git@github.com:bodar/shavenmaven.git
 [submodule "jcompilo"]
 	path = jcompilo
-	url = https://github.com/bodar/jcompilo.git
+	url = git@github.com:bodar/jcompilo.git
