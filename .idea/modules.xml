@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jcompilo.iml" filepath="$PROJECT_DIR$/jcompilo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/lazyrecords.iml" filepath="$PROJECT_DIR$/lazyrecords.iml" />
-      <module fileurl="file://$PROJECT_DIR$/shavenmaven.iml" filepath="$PROJECT_DIR$/shavenmaven.iml" />
       <module fileurl="file://$PROJECT_DIR$/totallylazy.iml" filepath="$PROJECT_DIR$/totallylazy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/utterlyidle.iml" filepath="$PROJECT_DIR$/utterlyidle.iml" />
       <module fileurl="file://$PROJECT_DIR$/yadic.java.iml" filepath="$PROJECT_DIR$/yadic.java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lazyrecords.iml" filepath="$PROJECT_DIR$/lazyrecords.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utterlyidle.iml" filepath="$PROJECT_DIR$/utterlyidle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shavenmaven.iml" filepath="$PROJECT_DIR$/shavenmaven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jcompilo.iml" filepath="$PROJECT_DIR$/jcompilo.iml" />
     </modules>
   </component>
 </project>
